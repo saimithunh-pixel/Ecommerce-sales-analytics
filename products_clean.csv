@@ -1,0 +1,245 @@
+Product_ID,Product_Name,Category,Sub_Category,Price,Cost
+P0001,Fitness Product,Sports,Fitness,509,392
+P0002,Men Clothing Product,Fashion,Men Clothing,2386,1833
+P0003,Sportswear Product,Sports,Sportswear,9035,4006
+P0004,Furniture Product,Home & Kitchen,Furniture,588,262
+P0005,Footwear Product,Unknown,Footwear,9963,4117
+P0006,Footwear Product,Fashion,Footwear,9028,5504
+P0007,Appliances Product,Home & Kitchen,Appliances,4657,3747
+P0009,Men Clothing Product,Fashion,Men Clothing,5614,2532
+P0010,Furniture Product,Home & Kitchen,Furniture,5981,4926
+P0011,Makeup Product,Beauty,Makeup,811,620
+P0012,Unknow,Beauty,Skincare,6301,2768
+P0013,Dairy Product,Grocery,Dairy,6025,4149
+P0014,Fitness Product,Sports,Fitness,850,621
+P0015,Snacks Product,Grocery,Snacks,3914,3261
+P0016,Cookware Product,Home & Kitchen,Cookware,7528,5403
+P0017,Snacks Product,Grocery,Snacks,6165,3561
+P0019,Footwear Product,Fashion,Footwear,4110,1979
+P0020,Cookware Product,Home & Kitchen,Cookware,9225,4702
+P0022,Beverages Product,Grocery,Beverages,4486,1942
+P0023,Haircare Product,Beauty,Haircare,5255,2660
+P0024,Cookware Product,Home & Kitchen,Cookware,7617,3590
+P0025,Men Clothing Product,Fashion,Men Clothing,9297,6224
+P0026,Sportswear Product,Unknown,Sportswear,7119,6043
+P0027,Cookware Product,Home & Kitchen,Cookware,3693,3318
+P0028,Footwear Product,Fashion,Footwear,8185,3646
+P0029,Mobile Product,Electronics,Mobile,2604,1858
+P0030,Outdoor Product,Sports,Outdoor,9871,4261
+P0031,Appliances Product,Home & Kitchen,Appliances,7768,5162
+P0032,Skincare Product,Beauty,Skincare,1976,1463
+P0033,Makeup Product,Beauty,Makeup,5673,2585
+P0034,Furniture Product,Home & Kitchen,Furniture,7533,3025
+P0035,Sportswear Product,Sports,Sportswear,4415,3911
+P0036,Footwear Product,Fashion,Footwear,1843,1539
+P0037,Dairy Product,Grocery,Dairy,8417,5929
+P0038,Women Clothing Product,Fashion,Women Clothing,2746,1838
+P0040,Mobile Product,Electronics,Mobile,6047,5075
+P0041,Snacks Product,Grocery,Snacks,1049,545
+P0042,Skincare Product,Beauty,Skincare,1503,1151
+P0043,Laptop Product,Electronics,Laptop,2203,1607
+P0044,Skincare Product,Beauty,Skincare,4442,2948
+P0045,Makeup Product,Beauty,Makeup,3570,3086
+P0046,Sportswear Product,Sports,Sportswear,3395,2568
+P0048,Makeup Product,Beauty,Makeup,2082,1090
+P0049,Audio Product,Electronics,Audio,444,308
+P0051,Sportswear Product,Sports,Sportswear,1064,547
+P0052,Audio Product,Electronics,Audio,1260,827
+P0053,Dairy Product,Grocery,Dairy,8053,4083
+P0054,Footwear Product,Fashion,Footwear,9455,6506
+P0055,Unknow,Fashion,Women Clothing,6769,3352
+P0056,Accessories Product,Electronics,Accessories,5904,3612
+P0057,Appliances Product,Home & Kitchen,Appliances,987,727
+P0058,Fitness Product,Sports,Fitness,1093,657
+P0060,Makeup Product,Beauty,Makeup,2396,1463
+P0061,Beverages Product,Grocery,Beverages,4192,3509
+P0062,Accessories Product,Electronics,Accessories,9116,4092
+P0063,Sportswear Product,Sports,Sportswear,341,301
+P0065,Women Clothing Product,Fashion,Women Clothing,1060,511
+P0066,Accessories Product,Electronics,Accessories,4445,3837
+P0067,Cookware Product,Home & Kitchen,Cookware,7030,5260
+P0069,Snacks Product,Grocery,Snacks,1058,729
+P0070,Skincare Product,Beauty,Skincare,5238,2244
+P0072,Skincare Product,Beauty,Skincare,1031,907
+P0074,Fitness Product,Sports,Fitness,6715,3088
+P0075,Skincare Product,Beauty,Skincare,9585,6683
+P0076,Skincare Product,Beauty,Skincare,6968,5077
+P0077,Haircare Product,Beauty,Haircare,5283,4582
+P0078,Footwear Product,Fashion,Footwear,5247,2724
+P0079,Furniture Product,Home & Kitchen,Furniture,5015,3152
+P0080,Mobile Product,Electronics,Mobile,7608,5406
+P0081,Skincare Product,Beauty,Skincare,1300,869
+P0082,Makeup Product,Beauty,Makeup,2270,1967
+P0083,Laptop Product,Electronics,Laptop,6154,3338
+P0084,Appliances Product,Home & Kitchen,Appliances,5056,3568
+P0086,Makeup Product,Beauty,Makeup,1797,1562
+P0087,Women Clothing Product,Fashion,Women Clothing,1991,1682
+P0088,Sportswear Product,Sports,Sportswear,2646,1418
+P0089,Skincare Product,Beauty,Skincare,5717,2868
+P0091,Mobile Product,Electronics,Mobile,7039,5734
+P0092,Mobile Product,Electronics,Mobile,5564,4370
+P0093,Outdoor Product,Sports,Outdoor,2747,2116
+P0094,Haircare Product,Beauty,Haircare,7107,4835
+P0095,Mobile Product,Electronics,Mobile,2542,1710
+P0096,Dairy Product,Grocery,Dairy,9152,4338
+P0097,Men Clothing Product,Fashion,Men Clothing,5150,2998
+P0098,Audio Product,Unknown,Audio,3541,2623
+P0099,Fitness Product,Sports,Fitness,5894,4656
+P0100,Appliances Product,Home & Kitchen,Appliances,2632,2271
+P0101,Men Clothing Product,Fashion,Men Clothing,3000,2522
+P0102,Unknow,Electronics,Laptop,5542,4384
+P0104,Fitness Product,Sports,Fitness,6367,5323
+P0105,Furniture Product,Home & Kitchen,Furniture,3369,2723
+P0106,Cookware Product,Home & Kitchen,Cookware,5100,4132
+P0107,Men Clothing Product,Fashion,Men Clothing,487,355
+P0108,Cookware Product,Home & Kitchen,Cookware,4664,3881
+P0109,Beverages Product,Grocery,Beverages,8446,5066
+P0110,Makeup Product,Beauty,Makeup,552,252
+P0111,Snacks Product,Grocery,Snacks,9612,8470
+P0112,Snacks Product,Grocery,Snacks,1876,1309
+P0113,Dairy Product,Unknown,Dairy,5239,3238
+P0114,Skincare Product,Beauty,Skincare,6411,5447
+P0115,Women Clothing Product,Fashion,Women Clothing,827,623
+P0117,Outdoor Product,Sports,Outdoor,5243,3836
+P0118,Audio Product,Unknown,Audio,8408,4663
+P0119,Cookware Product,Home & Kitchen,Cookware,6692,5009
+P0120,Skincare Product,Beauty,Skincare,3243,1978
+P0121,Appliances Product,Home & Kitchen,Appliances,2951,2088
+P0122,Unknow,Grocery,Beverages,9077,7414
+P0123,Beverages Product,Grocery,Beverages,3543,2178
+P0124,Haircare Product,Beauty,Haircare,5379,3402
+P0125,Appliances Product,Home & Kitchen,Appliances,3601,2360
+P0126,Fitness Product,Sports,Fitness,1489,806
+P0127,Sportswear Product,Sports,Sportswear,5591,2497
+P0128,Footwear Product,Fashion,Footwear,5185,2656
+P0130,Appliances Product,Home & Kitchen,Appliances,1293,811
+P0131,Sportswear Product,Sports,Sportswear,3285,2493
+P0133,Sportswear Product,Sports,Sportswear,190,160
+P0134,Accessories Product,Electronics,Accessories,3685,1798
+P0135,Sportswear Product,Sports,Sportswear,7711,3278
+P0137,Appliances Product,Home & Kitchen,Appliances,8802,7868
+P0138,Makeup Product,Beauty,Makeup,7351,5192
+P0139,Sportswear Product,Sports,Sportswear,7091,5781
+P0141,Cookware Product,Unknown,Cookware,4346,3372
+P0142,Outdoor Product,Sports,Outdoor,8640,5549
+P0143,Women Clothing Product,Fashion,Women Clothing,7306,3205
+P0144,Snacks Product,Grocery,Snacks,4551,2584
+P0145,Skincare Product,Beauty,Skincare,2367,1125
+P0146,Appliances Product,Home & Kitchen,Appliances,2603,1960
+P0147,Accessories Product,Unknown,Accessories,6778,3832
+P0148,Cookware Product,Home & Kitchen,Cookware,1120,563
+P0149,Cookware Product,Home & Kitchen,Cookware,9669,8441
+P0150,Accessories Product,Electronics,Accessories,7914,3188
+P0151,Beverages Product,Grocery,Beverages,6489,5364
+P0153,Women Clothing Product,Fashion,Women Clothing,3695,1982
+P0154,Furniture Product,Home & Kitchen,Furniture,6471,3675
+P0155,Unknow,Sports,Outdoor,2804,2299
+P0156,Footwear Product,Fashion,Footwear,8851,3659
+P0157,Appliances Product,Home & Kitchen,Appliances,9346,6836
+P0158,Accessories Product,Electronics,Accessories,2323,1936
+P0160,Women Clothing Product,Fashion,Women Clothing,5455,3102
+P0161,Cookware Product,Home & Kitchen,Cookware,7006,3686
+P0162,Accessories Product,Electronics,Accessories,417,322
+P0163,Audio Product,Electronics,Audio,3773,2735
+P0164,Fitness Product,Sports,Fitness,608,531
+P0165,Men Clothing Product,Fashion,Men Clothing,2596,1348
+P0166,Appliances Product,Home & Kitchen,Appliances,1974,1346
+P0167,Women Clothing Product,Fashion,Women Clothing,4298,3367
+P0169,Women Clothing Product,Fashion,Women Clothing,1871,1289
+P0170,Dairy Product,Grocery,Dairy,6249,3738
+P0171,Fitness Product,Sports,Fitness,1345,936
+P0172,Fitness Product,Sports,Fitness,1769,1324
+P0173,Dairy Product,Grocery,Dairy,9937,7977
+P0175,Outdoor Product,Sports,Outdoor,1229,802
+P0176,Snacks Product,Grocery,Snacks,6982,5663
+P0177,Accessories Product,Electronics,Accessories,6034,4331
+P0178,Appliances Product,Home & Kitchen,Appliances,2606,1609
+P0179,Sportswear Product,Sports,Sportswear,4525,3203
+P0180,Makeup Product,Beauty,Makeup,7716,4766
+P0181,Sportswear Product,Unknown,Sportswear,4497,2523
+P0182,Men Clothing Product,Fashion,Men Clothing,4669,3925
+P0183,Women Clothing Product,Fashion,Women Clothing,9436,6653
+P0184,Unknow,Home & Kitchen,Cookware,570,368
+P0185,Snacks Product,Grocery,Snacks,8088,4093
+P0186,Beverages Product,Grocery,Beverages,4681,3932
+P0189,Appliances Product,Home & Kitchen,Appliances,4037,3008
+P0190,Sportswear Product,Sports,Sportswear,8141,5080
+P0191,Mobile Product,Electronics,Mobile,4920,2513
+P0192,Fitness Product,Sports,Fitness,5116,3744
+P0193,Beverages Product,Grocery,Beverages,9168,6100
+P0194,Appliances Product,Home & Kitchen,Appliances,9117,5154
+P0195,Outdoor Product,Sports,Outdoor,4538,2510
+P0196,Unknow,Fashion,Men Clothing,3255,1815
+P0197,Unknow,Sports,Sportswear,3133,1553
+P0198,Outdoor Product,Sports,Outdoor,4630,3529
+P0199,Haircare Product,Beauty,Haircare,4736,4216
+P0200,Women Clothing Product,Fashion,Women Clothing,3827,2221
+P0201,Snacks Product,Grocery,Snacks,8851,4100
+P0202,Mobile Product,Electronics,Mobile,9166,5005
+P0205,Snacks Product,Grocery,Snacks,941,495
+P0206,Furniture Product,Home & Kitchen,Furniture,1170,702
+P0207,Mobile Product,Electronics,Mobile,2585,1226
+P0208,Makeup Product,Beauty,Makeup,1495,1340
+P0209,Accessories Product,Electronics,Accessories,9866,7847
+P0210,Footwear Product,Fashion,Footwear,6332,3959
+P0211,Cookware Product,Home & Kitchen,Cookware,9742,8719
+P0212,Dairy Product,Grocery,Dairy,1086,765
+P0214,Dairy Product,Grocery,Dairy,1430,684
+P0215,Footwear Product,Fashion,Footwear,1329,635
+P0216,Cookware Product,Home & Kitchen,Cookware,9829,6240
+P0217,Laptop Product,Electronics,Laptop,4820,3631
+P0218,Outdoor Product,Sports,Outdoor,1266,941
+P0219,Dairy Product,Grocery,Dairy,9763,7132
+P0220,Women Clothing Product,Fashion,Women Clothing,1980,1331
+P0221,Fitness Product,Sports,Fitness,4452,3620
+P0222,Mobile Product,Electronics,Mobile,2818,2244
+P0223,Haircare Product,Beauty,Haircare,9425,8111
+P0224,Furniture Product,Home & Kitchen,Furniture,7779,5790
+P0225,Outdoor Product,Sports,Outdoor,4560,2965
+P0227,Appliances Product,Home & Kitchen,Appliances,5380,3775
+P0228,Mobile Product,Electronics,Mobile,3850,3391
+P0229,Haircare Product,Beauty,Haircare,439,395
+P0230,Outdoor Product,Sports,Outdoor,9541,4008
+P0231,Women Clothing Product,Fashion,Women Clothing,8602,6242
+P0232,Snacks Product,Grocery,Snacks,9690,5987
+P0234,Beverages Product,Grocery,Beverages,1813,1502
+P0235,Beverages Product,Grocery,Beverages,8217,4470
+P0236,Appliances Product,Home & Kitchen,Appliances,701,439
+P0237,Beverages Product,Grocery,Beverages,5396,2471
+P0238,Appliances Product,Home & Kitchen,Appliances,118,86
+P0239,Makeup Product,Beauty,Makeup,6870,2934
+P0241,Laptop Product,Electronics,Laptop,4475,3018
+P0242,Beverages Product,Grocery,Beverages,8041,3704
+P0243,Sportswear Product,Sports,Sportswear,4020,3034
+P0244,Dairy Product,Grocery,Dairy,324,219
+P0245,Laptop Product,Electronics,Laptop,1958,1234
+P0246,Laptop Product,Electronics,Laptop,8265,7160
+P0248,Unknow,Home & Kitchen,Cookware,4093,2572
+P0249,Women Clothing Product,Fashion,Women Clothing,3222,2773
+P0250,Haircare Product,Beauty,Haircare,2336,1943
+P0251,Beverages Product,Grocery,Beverages,5668,4914
+P0252,Makeup Product,Beauty,Makeup,142,76
+P0253,Dairy Product,Grocery,Dairy,9601,8635
+P0254,Furniture Product,Home & Kitchen,Furniture,7416,4963
+P0255,Beverages Product,Unknown,Beverages,9142,7143
+P0256,Cookware Product,Home & Kitchen,Cookware,5372,4484
+P0258,Furniture Product,Home & Kitchen,Furniture,5313,4103
+P0259,Outdoor Product,Sports,Outdoor,6425,5745
+P0260,Fitness Product,Sports,Fitness,8215,7249
+P0261,Footwear Product,Fashion,Footwear,9769,5529
+P0262,Accessories Product,Electronics,Accessories,1733,1148
+P0263,Furniture Product,Home & Kitchen,Furniture,2461,1488
+P0264,Fitness Product,Sports,Fitness,1325,841
+P0265,Beverages Product,Grocery,Beverages,6612,4793
+P0266,Dairy Product,Grocery,Dairy,8842,5216
+P0267,Dairy Product,Grocery,Dairy,8094,6768
+P0268,Mobile Product,Electronics,Mobile,3946,2823
+P0269,Snacks Product,Grocery,Snacks,1580,974
+P0270,Mobile Product,Electronics,Mobile,7369,3560
+P0271,Snacks Product,Grocery,Snacks,853,479
+P0273,Men Clothing Product,Fashion,Men Clothing,8802,5334
+P0274,Fitness Product,Sports,Fitness,2885,1406
+P0276,Skincare Product,Beauty,Skincare,3904,2461
+P0278,Cookware Product,Home & Kitchen,Cookware,9055,4337
+P0279,Cookware Product,Home & Kitchen,Cookware,9726,5345
+P0280,Appliances Product,Home & Kitchen,Appliances,4197,2637
